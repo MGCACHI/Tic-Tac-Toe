@@ -1,0 +1,9 @@
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\TIC-TAC-TOE.exe.config
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\TIC-TAC-TOE.exe
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\TIC-TAC-TOE.pdb
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\TIC-TAC-TOE.csprojResolveAssemblyReference.cache
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\TIC_TAC_TOE.Form1.resources
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\TIC_TAC_TOE.Properties.Resources.resources
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\TIC-TAC-TOE.csproj.GenerateResource.Cache
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\TIC-TAC-TOE.exe
+c:\users\mgc\documents\visual studio 2015\Projects\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\TIC-TAC-TOE.pdb
